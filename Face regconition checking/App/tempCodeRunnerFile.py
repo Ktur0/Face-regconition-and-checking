@@ -1,0 +1,1 @@
+pygame.draw.rect(screen,('white'),(50,220,530,60))
